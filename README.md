@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+[![Avan's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanthakkar)](https://github.com/avanthakkar/github-readme-stats)
+
 
 <!--
 **avanthakkar/avanthakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
