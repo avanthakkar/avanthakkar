@@ -8,7 +8,7 @@
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avanthakkar&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=avanthakkar)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=avanthakkar&theme=radical)
